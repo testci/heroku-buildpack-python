@@ -1,4 +1,4 @@
-Heroku buildpack: Python
+Heroku buildpack: Python test
 ========================
 
 This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for Python apps, powered by [pip](http://www.pip-installer.org/).
